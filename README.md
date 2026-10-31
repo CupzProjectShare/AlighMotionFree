@@ -22,7 +22,7 @@ Set environment variable:
 CUPZ_API_KEY=API_KEY_KAMU
 ```
 
-
+## Informasi
 Tinggal minta ai buat ubah tampilan website nya.
 bebas pake boleh di pakai ,Jangan di Jual Kalo ada yang Jual langsung lapor ke owner tiktok:@cupzxpinadd
 ig:muh_yusuf.id
