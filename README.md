@@ -23,6 +23,7 @@ CUPZ_API_KEY=API_KEY_KAMU
 ```
 
 
-## Yang sudah dihapus
-
-Fitur aktivitas dan statistik telah dihapus dari UI dan backend, termasuk endpoint statistik, modul penyimpanan statistik, file data statistik, serta skrip tabel statistik Supabase. Alur kirim link dan verifikasi tetap tersedia.
+Tinggal minta ai buat ubah tampilan website nya.
+bebas pake boleh di pakai ,Jangan di Jual Kalo ada yang Jual langsung lapor ke owner tiktok:@cupzxpinadd
+ig:muh_yusuf.id
+saluran wa:https://whatsapp.com/channel/0029VbDzIefEFeXse40L5k2S
