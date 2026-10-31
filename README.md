@@ -12,8 +12,10 @@ Backend meneruskan `send-link` dan `verify-link` ke:
 
 Header `x-api-key` dikirim dari server menggunakan environment variable `CUPZ_API_KEY`.
 
+## Akses Api key 
 ambil api key di website 
-https://restapiv1.cupzproject.my.id/
+https://restapiv1.cupzproject.my.id/ .
+
 ## Vercel
 
 Set environment variable:
@@ -24,6 +26,8 @@ CUPZ_API_KEY=API_KEY_KAMU
 
 ## Informasi
 Tinggal minta ai buat ubah tampilan website nya.
-bebas pake boleh di pakai ,Jangan di Jual Kalo ada yang Jual langsung lapor ke owner tiktok:@cupzxpinadd
-ig:muh_yusuf.id
-saluran wa:https://whatsapp.com/channel/0029VbDzIefEFeXse40L5k2S
+bebas pake boleh di pakai ,Jangan di Jual Kalo ada yang Jual langsung lapor ke owner. 
+
+- tiktok:@cupzxpinadd .
+- ig:muh_yusuf.id .
+- saluran wa:https://whatsapp.com/channel/0029VbDzIefEFeXse40L5k2S .
